@@ -12,9 +12,7 @@ This is a full-stack eCommerce web application built with Angular for the fronte
 -   [Backend (Spring Boot)](#backend-spring-boot)
 -   [Database](#database)
 -   [Running the Application](#running-the-application)
--   [Deployment](#deployment)
--   [Contributing](#contributing)
--   [License](#license)
+
 
 ## Features
 
